@@ -1,0 +1,11 @@
+Region,Country,Item Type,Sales Channel,Order Priority,Order Date,Units Sold,Unit Price,Unit Cost,Total Revenue,Total Cost,Total Profit
+"Sub-Saharan Africa","South Africa","Fruits","Offline","M","7/27/2012",8162,9.33,6.92,76149.46,56479.04,19670.42
+"Middle East and North Africa","Morocco","Clothes","Online","M","9/14/2013",4620,109.28,35.84,504837.6,165619.2,339218.4
+"Australia and Oceania","Papua New Guinea","Meat","Offline","M","5/15/2015",3 Papua New Guinea,421.89,364.69,1265670,1094070,171600
+"Sub-Saharan Africa","Djibouti","Snacks","Online","H","5/20/2017",5695,152.58,97.44,868838.1,554860.8,313977.3
+"Europe","Germany","Baby Food","Offline","H","2/28/2014",93Baby Food6,255.28,159.42,23773Baby Food.08,149147.72,88582.36
+"Asia","India","Personal Care","Offline","L","11/21/2015",Personal Care,81.73,56.67,653840,453360,200480
+"Sub-Saharan Africa","Togo","Household","Offline","M","1/2/2013",2Household,668.27,502.54,1336540,1005080,331460
+"Asia","Sri Lanka","Fruits","Online","L","11/22/2011",Sri Lanka,9.33,6.92,704Fruits4.16,52017.92,18426.24
+"Sub-Saharan Africa","Angola","Household","Offline","L","4/23/2011",Angola,668.27,502.54,52Household1250.6,391981.2,129269.4
+"Europe","Bulgaria","Clothes","Online","M","6/22/2012",Bulgaria,109.28,35.84,178184.8,58163.2,120021.6

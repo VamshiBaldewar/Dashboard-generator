@@ -1,0 +1,11 @@
+Product,Category,Sales,Profit
+"Laptop","Electronics",1200,200
+"Keyboard","Electronics",75,15
+"Mouse","Electronics",25,5
+"Desk","Furniture",300,50
+"Chair","Furniture",150,25
+"Pen","Office Supplies",2,0.5
+"Paper","Office Supplies",10,2
+"Monitor","Electronics",300,50
+"HDMI Cable","Electronics",15,3
+"Desk Lamp","Furniture",20,4
